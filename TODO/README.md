@@ -10,6 +10,7 @@
 - [ ] Learn to use zapier
 - [ ] Learn to make UserScripts
 - [ ] Test out some GitHub bots
+- [ ] Setup neovim completion and LSP
  
  ## Research
  
