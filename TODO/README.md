@@ -8,6 +8,7 @@
 - [ ] Read blogs on [learnui.design](https://learnui.design/blog)
 - [ ] Learn the netify workflow
 - [ ] Learn to use zapier
+- [ ] Learn to use IFTTT
 - [ ] Learn to make UserScripts
 - [ ] Test out some GitHub bots
 - [x] Setup neovim completion and LSP
@@ -22,6 +23,7 @@
  - [ ] Crontab
  - [ ] Cronjobs
  - [ ] [hn.academy](https://yahnd.com/academy/)
+ - [ ] [Getting started with no-code](https://makerpad.zapier.com/getting-started-with-no-code)
  - [ ] Web3 related
     - [ ] [ProtoSchool](https://proto.school/)
     - [ ] [NFT School](https://nftschool.dev/)
