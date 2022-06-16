@@ -52,12 +52,12 @@ By Al Sweigart
         - Disabling Automatic URL Linking
 
 ### To explore
--[ ] [Bolt.im][1]
--[ ] [Remarkjs][2]
--[ ] [Cleaver][3]
--[ ] [Read the Docs][4]
--[ ] [MkDocs][5]
--[ ] [Jekyll][6]
+- [ ] [Bolt.im][1]
+- [ ] [Remarkjs][2]
+- [ ] [Cleaver][3]
+- [ ] [Read the Docs][4]
+- [ ] [MkDocs][5]
+- [ ] [Jekyll][6]
 
 [1]: https://blot.im/about "A blogging platform with no interface"
 [2]: https://remarkjs.com/ "Simple, in-browser, Markdown-driven slideshow tool"
