@@ -12,7 +12,8 @@
 - [ ] Learn to make UserScripts
 - [ ] Test out some GitHub bots
 - [x] Setup neovim completion and LSP
- 
+- [ ] Getting Started with Cisco Packet Tracer 
+
  ## Research
  
  - [ ] HyperPhysics
