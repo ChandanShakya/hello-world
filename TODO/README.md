@@ -13,6 +13,7 @@
 - [ ] Test out some GitHub bots
 - [x] Setup neovim completion and LSP
 - [ ] Getting Started with Cisco Packet Tracer 
+- [ ] Three.js site idea, Spinning Sushi
 
  ## Research
  
